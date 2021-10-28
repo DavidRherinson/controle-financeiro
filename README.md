@@ -1,7 +1,7 @@
 # controle-financeiro
 
-<h2>Memoria salva em cache local pode atualiza a página </h2>
+<h3>Memoria salva em cache local pode atualiza a página </h3>
 
-<h2>usar o - na frente do número para adicionar despesas </h2>
+<h3>usar o - na frente do número para adicionar despesas </h3>
 
 <img src="print-img.png">
