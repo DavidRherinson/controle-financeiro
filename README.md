@@ -6,6 +6,6 @@
 
 <h3> para excluir alguma caixa de transação clique no começo fora da caixa que vc quer excluir </h3>
 
-link para teste: https://davidrherinson.github.io/controle-financeiro/
+<a href="https://davidrherinson.github.io/controle-financeiro/" target="_blank" </a>
 
 <img src="print-img1.png">
