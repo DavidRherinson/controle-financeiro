@@ -35,14 +35,14 @@
       <form id="form">
         <div class="form-control">
           <label for="text">Nome</label>
-          <input autofocus type="text" required="required"  id="text" placeholder="Nome da transação, so texto"   pattern="[a-z\s]+$" />
+          <input autofocus type="text" required="required"  id="text" placeholder="Nome da transação, so texto"   pattern="[A-z\s]+$" />
         </div>
 
         <div class="form-control">
           <label for="amount">Valor <br />
             <small>(negativo = despesas, positivo = receitas)</small>
           </label>
-          <input type="text" id="amount" placeholder="Valor da transação" required="required" pattern="^-?(0|[1-9]\d*)$" />
+          <input type="text" id="amount" placeholder="Valor da transação, so número" required="required" pattern="^-?(0|[1-9]\d*)$" />
         </div>
 
         <button class="btn">Adicionar</button>
